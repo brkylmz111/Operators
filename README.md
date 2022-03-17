@@ -1,2 +1,2 @@
-# Operators
-Operators for Patika.dev
+# PatikaRep
+C# 101 ilk repo
